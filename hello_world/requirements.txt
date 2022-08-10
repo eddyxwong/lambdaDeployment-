@@ -1,1 +1,9 @@
 requests
+ast
+json
+pprint
+argparse
+sys
+tempfile
+git
+os
